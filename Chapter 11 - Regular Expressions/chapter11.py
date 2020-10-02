@@ -58,4 +58,4 @@ for line in file:
     for number in numbers:
         sum = sum + int(number)
 
-print sum
+print(sum)
